@@ -5,6 +5,8 @@
 > this is a playground repo
 >
 
+[![YouTube](http://i.ytimg.com/vi/0nO8oPH__Ww/hqdefault.jpg)](https://www.youtube.com/watch?v=0nO8oPH__Ww)
+
 
 ## Ref
 - https://heidiliu2020.github.io/angular-cli/
